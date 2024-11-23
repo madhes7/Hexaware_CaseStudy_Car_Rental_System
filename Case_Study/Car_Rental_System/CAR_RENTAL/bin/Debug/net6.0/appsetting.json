@@ -1,0 +1,6 @@
+{
+  "ConnectionStrings": {
+    "LocalConnectionString": "Server=DESKTOP-BAHKPDL;Database=CRSDB;Trusted_Connection=True"
+  }
+
+}
